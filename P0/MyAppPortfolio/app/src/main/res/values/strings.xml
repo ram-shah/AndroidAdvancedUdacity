@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <!-- String for the title textview -->
+    <string name="title">My Nanodegree Apps!</string>
+
+    <!-- Strings for all the project buttons -->
+    <string name="project1">Popular Movies</string>
+    <string name="project2">Stock Hawk</string>
+    <string name="project3">Build It Bigger</string>
+    <string name="project4">Make Your App Material</string>
+    <string name="project5">Go Ubiquitous</string>
+    <string name="project6">Capstone</string>
+
+    <!-- Strings for all the project toast message -->
+    <string name="project_msg">This button will launch my %s app!</string>
+</resources>

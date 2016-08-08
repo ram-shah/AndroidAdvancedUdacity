@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/activity_horizontal_margin"
+        tools:context="com.example.android.myappportfolio.MainActivity">
+
+        <TextView style="@style/TextViewStyle" />
+
+        <Button
+            android:id="@+id/project1"
+            style="@style/ButtonStyle"
+            android:text="@string/project1" />
+
+        <Button
+            android:id="@+id/project2"
+            style="@style/ButtonStyle"
+            android:text="@string/project2" />
+
+        <Button
+            android:id="@+id/project3"
+            style="@style/ButtonStyle"
+            android:text="@string/project3" />
+
+        <Button
+            android:id="@+id/project4"
+            style="@style/ButtonStyle"
+            android:text="@string/project4" />
+
+        <Button
+            android:id="@+id/project5"
+            style="@style/ButtonStyle"
+            android:text="@string/project5" />
+
+        <Button
+            android:id="@+id/project6"
+            style="@style/ButtonStyle"
+            android:text="@string/project6" />
+
+    </LinearLayout>
+</ScrollView>
